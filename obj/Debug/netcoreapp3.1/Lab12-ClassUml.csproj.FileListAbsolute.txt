@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\Lab12-ClassUml\obj\Debug\netcoreapp3.1\Lab12-ClassUml.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\Lab12-ClassUml\obj\Debug\netcoreapp3.1\Lab12-ClassUml.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\Lab12-ClassUml\obj\Debug\netcoreapp3.1\Lab12-ClassUml.AssemblyInfo.cs
+C:\Users\herri\source\repos\Lab12-ClassUml\obj\Debug\netcoreapp3.1\Lab12-ClassUml.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\Lab12-ClassUml\bin\Debug\netcoreapp3.1\Lab12-ClassUml.exe
+C:\Users\herri\source\repos\Lab12-ClassUml\bin\Debug\netcoreapp3.1\Lab12-ClassUml.deps.json
+C:\Users\herri\source\repos\Lab12-ClassUml\bin\Debug\netcoreapp3.1\Lab12-ClassUml.runtimeconfig.json
+C:\Users\herri\source\repos\Lab12-ClassUml\bin\Debug\netcoreapp3.1\Lab12-ClassUml.runtimeconfig.dev.json
+C:\Users\herri\source\repos\Lab12-ClassUml\bin\Debug\netcoreapp3.1\Lab12-ClassUml.dll
+C:\Users\herri\source\repos\Lab12-ClassUml\bin\Debug\netcoreapp3.1\Lab12-ClassUml.pdb
+C:\Users\herri\source\repos\Lab12-ClassUml\obj\Debug\netcoreapp3.1\Lab12-ClassUml.dll
+C:\Users\herri\source\repos\Lab12-ClassUml\obj\Debug\netcoreapp3.1\Lab12-ClassUml.pdb
+C:\Users\herri\source\repos\Lab12-ClassUml\obj\Debug\netcoreapp3.1\Lab12-ClassUml.genruntimeconfig.cache
